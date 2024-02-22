@@ -3,7 +3,7 @@ const championName = "Draven Ironfist"
 let championXP = 5468
 let championLevel = "Ainda sem nível!"
 
-// estrutura de repetição
+// estrutura de repetição e decisão
 if (championXP <= 1000) {
   championLevel = "Ferro"
 } else if (championXP >= 1001 && championXP <= 2000) {
