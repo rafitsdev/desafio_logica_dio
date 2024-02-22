@@ -1,3 +1,6 @@
+// Desafio 01 da Formação Lógica de Programação
+// Dev: rafitsdev (Rafa)
+
 // Nome e XP do Campeão
 const championName = "Draven Ironfist"
 let championXP = 5468
